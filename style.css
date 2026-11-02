@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #111; /* Dark background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+canvas {
+    background-color: #222; /* Slightly lighter box for the game */
+    border: 4px solid #fff;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+}
